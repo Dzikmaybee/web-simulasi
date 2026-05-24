@@ -1,0 +1,6 @@
+{
+  "name": "Ghost CV",
+  "description": "AI Career Future Simulator for Junior High (SMP), Senior High (SMA), and University (Mahasiswa) students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
